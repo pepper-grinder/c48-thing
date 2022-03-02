@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background-color: orange;
+}
+
+.line1 {
+    background-color: black;
+    margin-left: 850px;
+    margin-right: 850px;
+    height: 15px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+math_sec {
+    background-color: cadetblue
+}
+
+.math_sub {
+    margin: 3px
+}
+
+.HL {
+    background-color: aquamarine;
+    margin-right: 500px;
+    margin-left: 500px;
+    padding-bottom: 20px;
+}
